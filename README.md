@@ -1,1 +1,1 @@
-# My-learning-Journey-in-Java-programming-language
+# My-Java-learning-streak
