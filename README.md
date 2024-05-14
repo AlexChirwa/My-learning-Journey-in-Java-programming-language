@@ -1,4 +1,4 @@
-# `**My-Java-learning-streak**`
+<h1 align="center"> My-Java-learning-streak </h1>
 
 ### **Introduction**
 The motivation behind this project is to develop a solid understanding of at least one programming language. I have chosen Java due to its favorable use in developing mobile and web applications, which are my main areas of interest. Currently, I am using Eclipse for all my Java projects, and I am self-taught.
