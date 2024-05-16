@@ -8,7 +8,7 @@ My current learning target is to master the core concepts of Java. Once I have a
 
 ### **Progress Tracking**
 To track my progress, I have set specific milestones. After covering at least three topics, I complete a series of exercises based on those topics. This approach helps refresh my memory and enhance my knowledge.
-if you want to also view my practice problems here is the link 
+If you want to also view my practice problems here is the link https://github.com/AlexChirwa/Java-Practice-Arena.git
 
 ### **Resources**
 - [W3Schools](https://www.w3schools.com/java/java_operators.asp) for learning.
