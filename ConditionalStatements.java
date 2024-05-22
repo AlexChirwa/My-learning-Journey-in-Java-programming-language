@@ -3,6 +3,7 @@
  * - The use of (if) to specify a block of code to be executed if the statement is true.
  * - The use of (else) to specify a block of code to executed if the same statement is false.
  * - The use of (else if) to specify a new condition if the first condition is false.
+ * - Java short-hand version of (if..else) statement which is called ternary operator, because it only consists of 3 operators:
  * - The use of (switch) to specify many alternative blocks of code to be executed.
  * 
  * point to remember is that when passing conditions we use Comparison Operators(Relational Operators). 
