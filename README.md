@@ -7,7 +7,7 @@ The motivation behind this project is to develop a solid understanding of at lea
 My current learning target is to master the core concepts of Java. Once I have a firm grasp of the basics, I will explore its frameworks and tools.
 
 ### **Progress Tracking**
-To track my progress, I have set specific milestones. After covering at least three topics, I complete a series of exercises based on those topics. This approach helps refresh my memory and enhance my knowledge.
+I wrote my first line of code on Tuesday, May 7, 2024. To track my progress, I have set specific milestones. After covering at least three topics, I complete a series of exercises based on those topics. This approach helps refresh my memory and enhance my knowledge.
 If you want to also view my practice problems here is the link https://github.com/AlexChirwa/Java-Practice-Arena.git
 
 ### **Resources**
